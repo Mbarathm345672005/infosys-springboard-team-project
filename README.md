@@ -52,6 +52,7 @@ This repository serves as the unified submission point for our capstone group pr
 | **Key Features** | **Multi-Role Access** (Admin, Store Manager, User), comprehensive **Product Management**, accurate **Sales Tracking**, and a user-friendly, shopping-style UI. The system integrates modules for **AI-based demand forecasting** to generate intelligent auto-restock suggestions, significantly enhancing inventory efficiency and reducing manual oversight. |
 | **Technology Stack** | **Frontend:** React.js |
 | **Technology Stack** | **Backend:** Spring Boot (Java), JWT Authentication |
+| **ML model** | Random Forest |
 | **Database** | MySQL |
 
 ### 📌 Project 4
